@@ -33,8 +33,7 @@ void runinfo::end(population& pop, model& univ, MKP* m) {
 	}
 	avgfx /= pop.m;
 	gap = (bestknown - bestfound);//bestknown;
-	greedyval = m->greedyval;
-	igreedyval = m->igreedyval;
+
     nevals = m->nevals;
 }
 

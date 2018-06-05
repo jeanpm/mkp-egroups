@@ -1,5 +1,9 @@
 # Usage information
 ```
+make debug
+
+./cbga -i instances/chu-beasley/30.100-00
+
 	-i string 	MKP instance file
 	-n integer	population size
 	-m option 	mutation type:
