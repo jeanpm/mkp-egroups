@@ -1,0 +1,200 @@
+\begin{thebibliography}{19}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\href}[2]{#2}
+\providecommand{\path}[1]{#1}
+\providecommand{\DOIprefix}{doi:}
+\providecommand{\ArXivprefix}{arXiv:}
+\providecommand{\URLprefix}{URL: }
+\providecommand{\Pubmedprefix}{pmid:}
+\providecommand{\doi}[1]{\href{http://dx.doi.org/#1}{\path{#1}}}
+\providecommand{\Pubmed}[1]{\href{pmid:#1}{\path{#1}}}
+\providecommand{\bibinfo}[2]{#2}
+\ifx\xfnm\relax \def\xfnm[#1]{\unskip,\space#1}\fi
+%Type = Article
+\bibitem[{Azad et~al.(2014)Azad, Rocha \& Fernandes}]{azad2014}
+\bibinfo{author}{Azad, M. A.~K.}, \bibinfo{author}{Rocha, A. M.~A.}, \&
+  \bibinfo{author}{Fernandes, E.~M.} (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{{Improved binary artificial fish swarm algorithm for
+  the 0--1 multidimensional knapsack problems}}.
+\newblock {\it \bibinfo{journal}{Swarm and Evolutionary Computation}\/},  {\it
+  \bibinfo{volume}{14}\/}, \bibinfo{pages}{66--75}.
+  \DOIprefix\doi{10.1016/j.swevo.2013.09.002}.
+%Type = Article
+\bibitem[{Chih et~al.(2014)Chih, Lin, Chern \& Ou}]{chih2014}
+\bibinfo{author}{Chih, M.}, \bibinfo{author}{Lin, C.-J.},
+  \bibinfo{author}{Chern, M.-S.}, \& \bibinfo{author}{Ou, T.-Y.}
+  (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{{Particle swarm optimization with time-varying
+  acceleration coefficients for the multidimensional knapsack problem}}.
+\newblock {\it \bibinfo{journal}{Applied Mathematical Modelling}\/},  {\it
+  \bibinfo{volume}{38}\/}, \bibinfo{pages}{1338--1350}.
+  \DOIprefix\doi{10.1016/j.apm.2013.08.009}.
+%Type = Article
+\bibitem[{Chu \& Beasley(1998)}]{chu1998}
+\bibinfo{author}{Chu, P.}, \& \bibinfo{author}{Beasley, J.}
+  (\bibinfo{year}{1998}).
+\newblock \bibinfo{title}{{A Genetic Algorithm for the Multidimensional
+  Knapsack Problem}}.
+\newblock {\it \bibinfo{journal}{Journal of Heuristics}\/},  {\it
+  \bibinfo{volume}{4}\/}, \bibinfo{pages}{63--86}.
+  \DOIprefix\doi{10.1023/A:1009642405419}.
+%Type = Article
+\bibitem[{Freville(2004)}]{freville2004}
+\bibinfo{author}{Freville, A.} (\bibinfo{year}{2004}).
+\newblock \bibinfo{title}{{The multidimensional 0--1 knapsack problem: An
+  overview}}.
+\newblock {\it \bibinfo{journal}{European Journal of Operational Research}\/},
+  {\it \bibinfo{volume}{155}\/}, \bibinfo{pages}{1--21}.
+  \DOIprefix\doi{10.1016/S0377-2217(03)00274-1}.
+%Type = Inproceedings
+\bibitem[{Gottlieb(2000)}]{gottlieb2000b}
+\bibinfo{author}{Gottlieb, J.} (\bibinfo{year}{2000}).
+\newblock \bibinfo{title}{{Permutation-based Evolutionary Algorithms for
+  Multidimensional Knapsack Problems}}.
+\newblock In {\it \bibinfo{booktitle}{{Proceedings of the 2000 ACM Symposium on
+  Applied Computing - Volume 1}}\/} {SAC '00} (pp. \bibinfo{pages}{408--414}).
+\newblock \bibinfo{address}{New York, NY, USA}: \bibinfo{publisher}{ACM}.
+\newblock \DOIprefix\doi{10.1145/335603.335866}.
+%Type = Incollection
+\bibitem[{Gottlieb(2001)}]{gottlieb2001}
+\bibinfo{author}{Gottlieb, J.} (\bibinfo{year}{2001}).
+\newblock \bibinfo{title}{{On the Feasibility Problem of Penalty-Based
+  Evolutionary Algorithms for Knapsack Problems}}.
+\newblock In \bibinfo{editor}{E.~Boers} (Ed.), {\it
+  \bibinfo{booktitle}{{Applications of Evolutionary Computing}}\/} (pp.
+  \bibinfo{pages}{50--59}).
+\newblock \bibinfo{publisher}{Springer Berlin Heidelberg} volume
+  \bibinfo{volume}{2037} of {\it \bibinfo{series}{{Lecture Notes in Computer
+  Science}}\/}.
+\newblock \DOIprefix\doi{10.1007/3-540-45365-2_6}.
+%Type = Article
+\bibitem[{Kong et~al.(2008)Kong, Tian \& Kao}]{kong2008}
+\bibinfo{author}{Kong, M.}, \bibinfo{author}{Tian, P.}, \&
+  \bibinfo{author}{Kao, Y.} (\bibinfo{year}{2008}).
+\newblock \bibinfo{title}{{A new ant colony optimization algorithm for the
+  multidimensional Knapsack problem}}.
+\newblock {\it \bibinfo{journal}{Computers \& Operations Research}\/},  {\it
+  \bibinfo{volume}{35}\/}, \bibinfo{pages}{2672--2683}.
+  \DOIprefix\doi{10.1016/j.cor.2006.12.029}.
+%Type = Article
+\bibitem[{Kulik \& Shachnai(2010)}]{Kulik2010}
+\bibinfo{author}{Kulik, A.}, \& \bibinfo{author}{Shachnai, H.}
+  (\bibinfo{year}{2010}).
+\newblock \bibinfo{title}{{There is no EPTAS for two-dimensional knapsack}}.
+\newblock {\it \bibinfo{journal}{Information Processing Letters}\/},  {\it
+  \bibinfo{volume}{110}\/}, \bibinfo{pages}{707--710}.
+  \DOIprefix\doi{10.1016/j.ipl.2010.05.031}.
+%Type = Article
+\bibitem[{Lai et~al.(2018)Lai, Hao, Glover \& Lü}]{LAI2018282}
+\bibinfo{author}{Lai, X.}, \bibinfo{author}{Hao, J.-K.},
+  \bibinfo{author}{Glover, F.}, \& \bibinfo{author}{Lü, Z.}
+  (\bibinfo{year}{2018}).
+\newblock \bibinfo{title}{A two-phase tabu-evolutionary algorithm for the 0–1
+  multidimensional knapsack problem}.
+\newblock {\it \bibinfo{journal}{Information Sciences}\/},  {\it
+  \bibinfo{volume}{436-437}\/}, \bibinfo{pages}{282 -- 301}.
+  \DOIprefix\doi{10.1016/j.ins.2018.01.026}.
+%Type = Article
+\bibitem[{Mansini \& Speranza(2012)}]{mansini2012}
+\bibinfo{author}{Mansini, R.}, \& \bibinfo{author}{Speranza, M.~G.}
+  (\bibinfo{year}{2012}).
+\newblock \bibinfo{title}{Coral: An exact algorithm for the multidimensional
+  knapsack problem}.
+\newblock {\it \bibinfo{journal}{INFORMS Journal on Computing}\/},  {\it
+  \bibinfo{volume}{24}\/}, \bibinfo{pages}{399--415}.
+  \DOIprefix\doi{10.1287/ijoc.1110.0460}.
+%Type = Inproceedings
+\bibitem[{Martins et~al.(2013)Martins, {Bringel Neto}, Crocomo, Vittori \&
+  Delbem}]{martins2013a}
+\bibinfo{author}{Martins, J.~P.}, \bibinfo{author}{{Bringel Neto}, C.},
+  \bibinfo{author}{Crocomo, M.~K.}, \bibinfo{author}{Vittori, K.}, \&
+  \bibinfo{author}{Delbem, A. C.~B.} (\bibinfo{year}{2013}).
+\newblock \bibinfo{title}{{A Comparison of Linkage-learning-based Genetic
+  Algorithms in Multidimensional knapsack Problems}}.
+\newblock In {\it \bibinfo{booktitle}{{Evolutionary Computation (CEC), 2013
+  IEEE Congress on}}\/} (pp. \bibinfo{pages}{502--509}).
+\newblock volume~\bibinfo{volume}{1}.
+\newblock \DOIprefix\doi{10.1109/CEC.2013.6557610}.
+%Type = Inproceedings
+\bibitem[{Martins \& Delbem(2013)}]{martins2013}
+\bibinfo{author}{Martins, J.~P.}, \& \bibinfo{author}{Delbem, A. C.~B.}
+  (\bibinfo{year}{2013}).
+\newblock \bibinfo{title}{{The influence of linkage-learning in the
+  linkage-tree GA when solving multidimensional knapsack problems}}.
+\newblock In {\it \bibinfo{booktitle}{{Proceeding of the fifteenth annual
+  conference on Genetic and evolutionary computation conference}}\/} {GECCO
+  '13} (pp. \bibinfo{pages}{821--828}).
+\newblock \bibinfo{address}{New York, NY, USA}: \bibinfo{publisher}{ACM}.
+\newblock \DOIprefix\doi{10.1145/2463372.2463476}.
+%Type = Inproceedings
+\bibitem[{Martins et~al.(2014)Martins, Longo \& Delbem}]{martins2014}
+\bibinfo{author}{Martins, J.~P.}, \bibinfo{author}{Longo, H.}, \&
+  \bibinfo{author}{Delbem, A.~C.} (\bibinfo{year}{2014}).
+\newblock \bibinfo{title}{On the effectiveness of genetic algorithms for the
+  multidimensional knapsack problem}.
+\newblock In {\it \bibinfo{booktitle}{Proceedings of the Companion Publication
+  of the 2014 Annual Conference on Genetic and Evolutionary Computation}\/}
+  GECCO Comp '14 (pp. \bibinfo{pages}{73--74}).
+\newblock \bibinfo{address}{New York, NY, USA}: \bibinfo{publisher}{ACM}.
+\newblock \DOIprefix\doi{10.1145/2598394.2598477}.
+%Type = Article
+\bibitem[{Puchinger et~al.(2010)Puchinger, Raidl \&
+  Pferschy}]{puchinger2010mkp}
+\bibinfo{author}{Puchinger, J.}, \bibinfo{author}{Raidl, G.~R.}, \&
+  \bibinfo{author}{Pferschy, U.} (\bibinfo{year}{2010}).
+\newblock \bibinfo{title}{{The multidimensional knapsack problem: Structure and
+  algorithms}}.
+\newblock {\it \bibinfo{journal}{INFORMS Journal on Computing}\/},  {\it
+  \bibinfo{volume}{22}\/}, \bibinfo{pages}{250--265}.
+%Type = Inproceedings
+\bibitem[{Tavares et~al.(2006)Tavares, Pereira \& Costa}]{tavares2006}
+\bibinfo{author}{Tavares, J.}, \bibinfo{author}{Pereira, F.}, \&
+  \bibinfo{author}{Costa, E.} (\bibinfo{year}{2006}).
+\newblock \bibinfo{title}{{The Role of Representation on the Multidimensional
+  Knapsack Problem by means of Fitness Landscape Analysis}}.
+\newblock In {\it \bibinfo{booktitle}{{Evolutionary Computation, 2006. CEC
+  2006. IEEE Congress on}}\/} (pp. \bibinfo{pages}{2307--2314}).
+\newblock \DOIprefix\doi{10.1109/CEC.2006.1688593}.
+%Type = Article
+\bibitem[{Tavares et~al.(2008)Tavares, Pereira \& Costa}]{tavares2008}
+\bibinfo{author}{Tavares, J.}, \bibinfo{author}{Pereira, F.}, \&
+  \bibinfo{author}{Costa, E.} (\bibinfo{year}{2008}).
+\newblock \bibinfo{title}{{Multidimensional Knapsack Problem: A Fitness
+  Landscape Analysis}}.
+\newblock {\it \bibinfo{journal}{Systems, Man, and Cybernetics, Part B:
+  Cybernetics, IEEE Transactions on}\/},  {\it \bibinfo{volume}{38}\/},
+  \bibinfo{pages}{604--616}. \DOIprefix\doi{10.1109/TSMCB.2008.915539}.
+%Type = Article
+\bibitem[{Vasquez \& Vimont(2005)}]{vasquez2005}
+\bibinfo{author}{Vasquez, M.}, \& \bibinfo{author}{Vimont, Y.}
+  (\bibinfo{year}{2005}).
+\newblock \bibinfo{title}{{Improved results on the 0--1 multidimensional
+  knapsack problem}}.
+\newblock {\it \bibinfo{journal}{European Journal of Operational Research}\/},
+  {\it \bibinfo{volume}{165}\/}, \bibinfo{pages}{70--81}.
+  \DOIprefix\doi{10.1016/j.ejor.2004.01.024}.
+%Type = Article
+\bibitem[{Wang et~al.(2012{\natexlab{a}})Wang, Fu, Mao, Menhas \&
+  Fei}]{wang2012b}
+\bibinfo{author}{Wang, L.}, \bibinfo{author}{Fu, X.}, \bibinfo{author}{Mao,
+  Y.}, \bibinfo{author}{Menhas, M.~I.}, \& \bibinfo{author}{Fei, M.}
+  (\bibinfo{year}{2012}{\natexlab{a}}).
+\newblock \bibinfo{title}{{A novel modified binary differential evolution
+  algorithm and its applications}}.
+\newblock {\it \bibinfo{journal}{Neurocomputing}\/},  {\it
+  \bibinfo{volume}{98}\/}, \bibinfo{pages}{55--75}.
+  \DOIprefix\doi{10.1016/j.neucom.2011.11.033}.
+\newblock \bibinfo{note}{Bio-inspired computing and applications (LSMS-ICSEE '
+  2010)}.
+%Type = Article
+\bibitem[{Wang et~al.(2012{\natexlab{b}})Wang, Wang \& Xu}]{wang2012}
+\bibinfo{author}{Wang, L.}, \bibinfo{author}{Wang, S.-y.}, \&
+  \bibinfo{author}{Xu, Y.} (\bibinfo{year}{2012}{\natexlab{b}}).
+\newblock \bibinfo{title}{{An effective hybrid EDA-based algorithm for solving
+  multidimensional knapsack problem}}.
+\newblock {\it \bibinfo{journal}{Expert Systems with Applications}\/},  {\it
+  \bibinfo{volume}{39}\/}, \bibinfo{pages}{5593--5599}.
+  \DOIprefix\doi{10.1016/j.eswa.2011.11.058}.
+
+\end{thebibliography}
